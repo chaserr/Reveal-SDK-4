@@ -28,6 +28,6 @@ $ pod install
 #How To Use
 >无需添加任何代码，直接打开 Reveal工具选择对应的工程即可
 
->关于实际用法，会给出博客
+[相关使用：简书](http://www.jianshu.com/p/e1f39f9a3653)
 
 
