@@ -12,7 +12,7 @@
     "http": "https://coding.net/u/TimeFace/p/Reveal-SDK/git/raw/master/RevealServer-4.zip"
   },
   "platforms": {
-    "ios": "8.0",
+    "ios": "9.0",
     "tvos": "9.0"
   },
   "requires_arc": false,
